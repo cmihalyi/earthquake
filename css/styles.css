@@ -1,0 +1,12 @@
+.axis{
+    font-size:11px;
+    shape-rendering: crispEdges;    
+}
+
+.tick line{
+    stroke: rgb(255, 128, 64);
+}
+
+.tip{
+    font-size: 10px;
+}
